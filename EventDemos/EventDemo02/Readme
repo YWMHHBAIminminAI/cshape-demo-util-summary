@@ -1,1 +1,3 @@
 相比于EventDemo01，只是间隔一秒打印boy的jump,此时间隔一秒，当boy开始jump时girl也开始sing
+
+一个事件Timer有两个事件处理器boy和girl

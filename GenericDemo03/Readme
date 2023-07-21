@@ -1,0 +1,1 @@
+GenericDemoVersion03:给在Version02版本基础上的CommoxBox引入泛型，避免了类型膨胀和成员膨胀

@@ -1,0 +1,1 @@
+咱们写的Human类有俩属性，一个string类型的Name，一个Human类型的Child，而WPFDemo01中只把String类型的Name通过点击Button跳转出来，而如果想直接按照Name的方式通过点击按钮方式跳转出来Human类型的Child，按照WPFDemo01的方式是不行的，所以，WPFDemo02对代码进行了更新，可以对比看，差异

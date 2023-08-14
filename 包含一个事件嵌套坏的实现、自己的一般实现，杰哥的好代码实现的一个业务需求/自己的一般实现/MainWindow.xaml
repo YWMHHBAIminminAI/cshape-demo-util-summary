@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfExercise02.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfExercise02"
+        mc:Ignorable="d"
+        Title="DealWithCustomInfo" Height="450" Width="800">
+    <Grid>
+        <StackPanel x:Name="stepContainer" Margin="10">
+            <TextBlock x:Name="StepIndexTextBlock"/>
+            <!-- 第一个TextBlock，用来实现每过一个步骤都需要在显眼位置显示步骤的index -->
+            <TextBlock x:Name="InstuctionsTextBlock"/>
+            <!-- 第二个TextBlock，用来实现每过一个步骤的具体内容，提高体验 -->
+            <Button Content="下一步" Click="NextStepButton_Click"/>
+            <Button Content="保存文件" Click="SaveFileButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

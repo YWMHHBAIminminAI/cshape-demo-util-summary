@@ -1,0 +1,7 @@
+D:\DevelopData\VSExercise\ConsoleProjectWatchDoorDog\bin\Debug\ConsoleProjectWatchDoorDog.exe.config
+D:\DevelopData\VSExercise\ConsoleProjectWatchDoorDog\bin\Debug\ConsoleProjectWatchDoorDog.exe
+D:\DevelopData\VSExercise\ConsoleProjectWatchDoorDog\bin\Debug\ConsoleProjectWatchDoorDog.pdb
+D:\DevelopData\VSExercise\ConsoleProjectWatchDoorDog\obj\Debug\ConsoleProjectWatchDoorDog.csproj.AssemblyReference.cache
+D:\DevelopData\VSExercise\ConsoleProjectWatchDoorDog\obj\Debug\ConsoleProjectWatchDoorDog.csproj.CoreCompileInputs.cache
+D:\DevelopData\VSExercise\ConsoleProjectWatchDoorDog\obj\Debug\ConsoleProjectWatchDoorDog.exe
+D:\DevelopData\VSExercise\ConsoleProjectWatchDoorDog\obj\Debug\ConsoleProjectWatchDoorDog.pdb

@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfExercise.StepTwo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfExercise"
+        mc:Ignorable="d"
+        Title="StepTwo" Height="450" Width="800">
+    <Grid>
+        <Button Content="进入步骤三：" HorizontalAlignment="Left" Margin="638,378,0,0" VerticalAlignment="Top" Width="154" Height="41" Click="JumpToStepThree"/>
+
+    </Grid>
+</Window>

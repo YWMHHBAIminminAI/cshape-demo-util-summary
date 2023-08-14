@@ -1,0 +1,15 @@
+D:\DevelopData\VSExercise\FreshManExercisePlan(before8.4)\WpfExercise02\bin\Debug\WpfExercise02.exe.config
+D:\DevelopData\VSExercise\FreshManExercisePlan(before8.4)\WpfExercise02\bin\Debug\WpfExercise02.exe
+D:\DevelopData\VSExercise\FreshManExercisePlan(before8.4)\WpfExercise02\bin\Debug\WpfExercise02.pdb
+D:\DevelopData\VSExercise\FreshManExercisePlan(before8.4)\WpfExercise02\obj\Debug\MainWindow.g.cs
+D:\DevelopData\VSExercise\FreshManExercisePlan(before8.4)\WpfExercise02\obj\Debug\App.g.cs
+D:\DevelopData\VSExercise\FreshManExercisePlan(before8.4)\WpfExercise02\obj\Debug\WpfExercise02_MarkupCompile.cache
+D:\DevelopData\VSExercise\FreshManExercisePlan(before8.4)\WpfExercise02\obj\Debug\WpfExercise02_MarkupCompile.lref
+D:\DevelopData\VSExercise\FreshManExercisePlan(before8.4)\WpfExercise02\obj\Debug\MainWindow.baml
+D:\DevelopData\VSExercise\FreshManExercisePlan(before8.4)\WpfExercise02\obj\Debug\WpfExercise02.g.resources
+D:\DevelopData\VSExercise\FreshManExercisePlan(before8.4)\WpfExercise02\obj\Debug\WpfExercise02.Properties.Resources.resources
+D:\DevelopData\VSExercise\FreshManExercisePlan(before8.4)\WpfExercise02\obj\Debug\WpfExercise02.csproj.GenerateResource.cache
+D:\DevelopData\VSExercise\FreshManExercisePlan(before8.4)\WpfExercise02\obj\Debug\WpfExercise02.csproj.CoreCompileInputs.cache
+D:\DevelopData\VSExercise\FreshManExercisePlan(before8.4)\WpfExercise02\obj\Debug\WpfExercise02.exe
+D:\DevelopData\VSExercise\FreshManExercisePlan(before8.4)\WpfExercise02\obj\Debug\WpfExercise02.pdb
+D:\DevelopData\VSExercise\FreshManExercisePlan(before8.4)\WpfExercise02\obj\Debug\WpfExercise02.csproj.AssemblyReference.cache

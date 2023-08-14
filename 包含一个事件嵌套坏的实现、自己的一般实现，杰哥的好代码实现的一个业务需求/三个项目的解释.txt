@@ -1,0 +1,5 @@
+WpfExercise01，是自己最开始写的事件1跳转到事件2，事件2跳转到事件3....，不好的写法，用switch分支写法替代
+
+WpfExercise02，是自己实现的一版
+
+WindowsFormsCustomInfo，是杰哥实现的，自己对杰哥代码进行的提取解耦

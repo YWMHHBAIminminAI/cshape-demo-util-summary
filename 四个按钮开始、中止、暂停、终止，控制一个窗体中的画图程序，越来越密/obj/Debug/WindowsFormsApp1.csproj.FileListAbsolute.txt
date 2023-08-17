@@ -1,0 +1,10 @@
+D:\DevelopData\VSExercise\暂时用，用完删除\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\DevelopData\VSExercise\暂时用，用完删除\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\DevelopData\VSExercise\暂时用，用完删除\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\DevelopData\VSExercise\暂时用，用完删除\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\DevelopData\VSExercise\暂时用，用完删除\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\DevelopData\VSExercise\暂时用，用完删除\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\DevelopData\VSExercise\暂时用，用完删除\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\DevelopData\VSExercise\暂时用，用完删除\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\DevelopData\VSExercise\暂时用，用完删除\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\DevelopData\VSExercise\暂时用，用完删除\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
